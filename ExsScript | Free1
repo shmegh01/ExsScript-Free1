@@ -56,7 +56,7 @@ local Settings = {
         Delay = 0.1, -- Увеличенная задержка
         Range = 30,
         OptimizePath = true,
-        FarmHeight = 1,
+        FarmHeight = 5,
         AutoFarmRestart = true,
         HumanLike = true -- Новая настройка для "человекоподобного" поведения
     },
